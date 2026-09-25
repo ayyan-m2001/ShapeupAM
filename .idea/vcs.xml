@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/ShapeupAM" vcs="Git" />
+=======
+>>>>>>> 544aab66a123b57e4cda844bc7a06d208a6f786a
   </component>
 </project>

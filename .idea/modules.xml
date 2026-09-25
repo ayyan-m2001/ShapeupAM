@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/ShapeupAM.iml" filepath="$PROJECT_DIR$/.idea/ShapeupAM.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/ShapeupAM.iml" filepath="$PROJECT_DIR$/ShapeupAM.iml" />
+>>>>>>> 544aab66a123b57e4cda844bc7a06d208a6f786a
     </modules>
   </component>
 </project>
